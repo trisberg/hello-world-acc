@@ -1,13 +1,13 @@
 apiVersion: entity.accelerator.apps.tanzu.vmware.com/v1alpha1
 kind: Accelerator
 metadata:
-  name: hello-world
+  name: 1-hello-world
   tags:
     - java
     - spring
     - cloud-foundry
     - tanzu
-  title: Hello World
+  title: Hello World [LOCAL]
   description: Hello World sample project for Spring Boot
 spec:
   accelerator:
