@@ -1,7 +1,7 @@
 apiVersion: entity.accelerator.apps.tanzu.vmware.com/v1alpha1
 kind: Accelerator
 metadata:
-  name: 1-hello-world
+  name: hello-world
   tags:
     - java
     - spring
