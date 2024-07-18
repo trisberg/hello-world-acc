@@ -7,7 +7,7 @@ metadata:
     - spring
     - cloud-foundry
     - tanzu
-  title: A Hello World App [LOCAL]
+  title: A Hello World App
   description: Hello World sample project for Spring Boot
 spec:
   accelerator:
